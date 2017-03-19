@@ -1,8 +1,9 @@
 {
   "name": "mapdosh",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A utility library for the ES6 Map",
   "main": "index.js",
+  "module": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
