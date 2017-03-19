@@ -1,6 +1,6 @@
 {
   "name": "mapdosh",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A utility library for the ES6 Map",
   "main": "lib/index.js",
   "module": "src/index.js",
@@ -23,11 +23,9 @@
     "url": "https://github.com/ohjames/mapdosh/issues"
   },
   "homepage": "https://github.com/ohjames/mapdosh#readme",
-  "dependencies": {
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.0",
     "sigh": "^0.12.35",
     "sigh-babel": "^0.12.3"
-  },
-  "devDependencies": {
-    "babel-preset-es2015": "^6.24.0"
   }
 }
